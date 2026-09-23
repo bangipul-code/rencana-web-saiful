@@ -1,0 +1,3 @@
+ini halaman landingpage
+- menambahkan detail landingpage
+- membuat halaman login
